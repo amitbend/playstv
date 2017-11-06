@@ -1,4 +1,6 @@
 # playstv
+[![MIT license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/timgrossmann/InstaPy/blob/master/LICENSE)
+
 Node.JS module for the plays.tv API - based on [playstv-node](https://github.com/Jishaxe/playstv-node) 
 API docs are available [here](https://plays.tv/developers/documentation)
 You can also test the different api calls through the developer portal - make sure you've got a key first! 
