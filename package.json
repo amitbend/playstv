@@ -6,16 +6,12 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Jishaxe/playstv-node.git"
-  },
-  "author": "",
+  "author": "amitbend",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Jishaxe/playstv-node/issues"
+    "url": "https://github.com/amitbend/playstv/issues"
   },
-  "homepage": "https://github.com/Jishaxe/playstv-node#readme",
+  "homepage": "https://github.com/amitbend/playstv",
   "dependencies": {
     "request": "^2.81.0"
   }
